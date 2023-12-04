@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 15,
+    "editor.fontFamily": "UbuntuMono Nerd Font Mono",
+    "workbench.list.openMode": "doubleClick",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.fontWeight": "normal",
+    "workbench.tree.expandMode": "doubleClick",
+    "workbench.tree.renderIndentGuides": "always"
+}
